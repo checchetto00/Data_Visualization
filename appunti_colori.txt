@@ -1,0 +1,43 @@
+S--> short wavelengths --> there's response but not active
+M --> medium   and L--> long show  peak response in yellow
+oure response is not uniform to the color
+
+ex. if there's an insufficient contrast
+
+3 dimensional space 
+z: white black
+y: blue yellow
+x: green red
+
+RGB --> each component goes from o to 255
+this is the set of colors with the widest gamut, set of all colors that can be defined by means of combining three primary colors
+
+(235, 91, 52) #eb5b34
+
+RGB is conveninet. it's a cube 
+HUE--> pure color
+CHROMA --> since saturation is not linear, we can do a correction and see a smooth changes
+LUMINANCE --> perceptually corrected version of the brightness
+these three elements are represented as a cilinder (hue=oriz, luminance vertically)
+
+sites: tristen.ca to select palette 
+
+HCL - Mapping data types
+Hue : cathgorical values --> qualitative
+Chroma : ordered data --> sequential
+Luminance : oredered data --> sequential
+
+encoding with color, a summary:
+- binary
+- diverging: both to encode absolute value (how far from the neutral point but also the sign)
+
+you could combine categorical and binary levels, or categorical with sequential
+--> etc but be careful
+
+changes in chroma are invisible if tou print in b&w 
+
+RED And BLUE have no problem with color blind because they are in two different perception lines
+
+
+
+
