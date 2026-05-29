@@ -1,2 +1,2 @@
 # Data_Visualization
-This repository will be a nice try to learn how to use github 
+This repository will demonstrate how to use github in the mot efficient way.
